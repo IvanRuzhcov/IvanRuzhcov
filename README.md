@@ -40,7 +40,12 @@
 - **Базы данных**: PostgreSQL, Sequelize ORM
 - **A также**: Jest, Docker, REST
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 ---
 ### GitHub cтатистика:
 [![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanRuzhcov&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/IvanRuzhcov)
