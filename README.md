@@ -14,7 +14,7 @@
 
 <br/>
 <br/>
-<img align="right" alt="coding" width="400" src="https://gifer.com/embed/43Vu">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/43Vu.gif">
 
 ---
 ### Мой стек:
