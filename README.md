@@ -14,7 +14,8 @@
 
 <br/>
 <br/>
-<iframe src="https://gifer.com/embed/43Vu" width=480 height=269.867 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
+<img align="right" alt="coding" width="400" src="https://gifer.com/embed/43Vu">
+
 ---
 ### Мой стек:
 
