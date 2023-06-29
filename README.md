@@ -14,7 +14,7 @@
 
 <br/>
 <br/>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/43Vu.gif">
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 ---
 ### Мой стек:
