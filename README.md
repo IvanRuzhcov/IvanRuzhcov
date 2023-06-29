@@ -46,6 +46,8 @@
 
 <br/>
 
+---
+
 ## Connect with me
 
 <div align="center">
@@ -60,9 +62,7 @@
 </a>  
 </div>  
 
----
 
-<br/>
 
 ## Github Stats
 
