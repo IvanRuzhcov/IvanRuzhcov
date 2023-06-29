@@ -9,6 +9,7 @@
 
 - 📫 Как связаться: glukhovajulia.jobs@gmail.com
 
+---
 <br/>
 
 ## My Skill Set
