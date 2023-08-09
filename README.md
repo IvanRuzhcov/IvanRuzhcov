@@ -49,8 +49,9 @@
 
 
 ---
-### GitHub cтатистика:
-[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanRuzhcov&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/IvanRuzhcov)
+<a href="https://www.codewars.com/" target="blank"><img alt="codewars" src="https://www.codewars.com/users/Racita"></a>
+<!-- ### GitHub cтатистика:
+[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanRuzhcov&hide=issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/IvanRuzhcov) -->
 
 
 [linkedin]: https://www.linkedin.com/in/ivan-ryzhkovv/
